@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\204\Documents\analisisDos\modules"
+VIRTUAL_ENV="D:\Santiago\Documents\logicaProgramacionPY\EjerciciosLogicaProgramacion\ntpClaseTrece\modules"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

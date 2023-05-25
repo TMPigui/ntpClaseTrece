@@ -12,7 +12,7 @@ estadisticasAPTO1 = tabla1.describe()
 estadisticasAPTO2 = tabla2.describe()
 estadisticasEmpleados = tabla3.describe()
 
-print(estadisticasAPTO1)
+print(f'{estadisticasAPTO1}')
 print("\n")
 print(estadisticasAPTO2)
 print("\n")
